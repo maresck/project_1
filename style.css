@@ -1,0 +1,31 @@
+.row  {
+  padding-top: 50px;
+  padding-bottom:  50px;
+  border-width: thin;
+  border-style: solid;
+  border-color: black;
+}
+
+#name {
+  border-width: thin;
+  border-style: solid;
+  border-color: black;
+}
+
+#search {
+  border-width: thin;
+  border-style: solid;
+  border-color: black;
+}
+
+.nav li {
+  display: inline;
+  float: left;
+  padding-bottom: 25px;
+}
+
+.col-sm-2 {
+  border-width: thin;
+  border-style: solid;
+  border-color: black;
+}
