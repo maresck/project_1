@@ -18,10 +18,16 @@
   border-color: black;
 }
 
+.nav {
+  background-color:black;
+  text-decoration-color:white;
+}
+
 .nav li {
   display: inline;
   float: left;
   padding-bottom: 25px;
+  text-color: white;
 }
 
 .col-sm-2 {
