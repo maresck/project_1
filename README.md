@@ -1,8 +1,7 @@
 # README
-Basic portfolio practice
 
-## Purpose:
+## Purpose
 To practice some basic portfolio / about-me website work.
 
-### Goal:
-<![https://media-mediatemple.netdna-ssl.com/wp-content/uploads/images/about-pages-design-showcase/about_khoi_vinh.jpg]()
+### Goal
+![Alt text](/about_khoi_vinh.jpg?raw=true "Optional Title")
